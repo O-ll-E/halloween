@@ -3,10 +3,12 @@ html{
 }
 
 body{
-  background-image: url("https://1.bp.blogspot.com/-GyQP5cJq6r4/T9P2qu-jmzI/AAAAAAAABjg/j2Zrc6oQmoY/s1600/129073_o.gif");
+  background-image:url(pumpkin.gif);
 
   min-height: 100%;
   background-position: center;
-  background-size: 100% 120%;
+  background-size: 100% 100%;
 
+}
+button{
 }
